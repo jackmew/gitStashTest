@@ -1,0 +1,2 @@
+Dog name: Yuki
+Dog age: 10

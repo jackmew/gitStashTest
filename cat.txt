@@ -1,0 +1,2 @@
+Cat name: Miju
+Cat age: 1.2
